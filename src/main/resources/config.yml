@@ -1,0 +1,15 @@
+Config:
+  debug: true
+  prefix: "&aCore &8> &7"
+  chatFormat: "%prefix &7%player &a >  &7%message"
+  chatCleared: "&7Der Chat wurde von &6%player &7geleert"
+  noPermission: "&cKeine Berechtigung, um diesen Befehl auszuführen!"
+  chatSpam: "&cStoppe das Spamen!"
+  chatCaps: "&cVerwende nächstes mal weniger Caps!"
+  chatAd: "&cWerbe nicht!"
+  chatTime: "&cBleibt ruhig!"
+  minLevenshteinDistance: 2
+  #Darf nicht größer als 10 sein!
+  maxMinLevenshteinDistance: 3
+  maxCaps: 5
+  minTimeDiff: 200

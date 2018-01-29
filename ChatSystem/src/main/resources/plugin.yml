@@ -1,0 +1,7 @@
+name: ChatSystem
+main: de.emeraldmc.chatsystem.Main
+version: 1.0
+commands:
+  chatclear:
+    usage: /cc [anon]
+    aliases: [cc, clearchat]
