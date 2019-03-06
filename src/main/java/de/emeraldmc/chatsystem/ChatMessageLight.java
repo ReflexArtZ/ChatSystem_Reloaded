@@ -3,6 +3,8 @@ package de.emeraldmc.chatsystem;
 import de.emeraldmc.chatsystem.utils.Percentage;
 import org.bukkit.entity.Player;
 
+import java.util.regex.Pattern;
+
 public class ChatMessageLight {
     private String message;
 
